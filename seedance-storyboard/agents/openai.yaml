@@ -1,1 +1,3 @@
-
+display_name: Seedance Storyboard
+short_description: Generate 10-second Seedance storyboard prompts from novels/scripts
+default_prompt: "把下面这段小说/剧本拆成 Seedance 10秒分镜提示词，按标准格式输出："
